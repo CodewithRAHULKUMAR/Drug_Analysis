@@ -1,0 +1,10 @@
+select * from drugs_analysis;
+select * from Total_Store_Sales;
+select * from Drugs_Sales;
+select * from Subgroup_Qty;
+select * from Zero_Sale;
+select * from Receipt_VS_Return;
+select * from Total_Returns;
+select* from Store_Efficiency;
+select * from Monthly_Saless;
+select * from tot_returns;
