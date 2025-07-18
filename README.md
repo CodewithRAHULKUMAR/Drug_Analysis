@@ -1,2 +1,3 @@
-# Drug_Analysis
-Analysis of a Drug dataset
+This project focuses on analyzing drug sales across multiple stores using Excel, SQL, and Power BI. The raw data was first cleaned and prepared in Excel to handle missing values, correct formats, and ensure consistency. SQL was then used to create multiple views such as total store sales, top-selling drugs, subgroup quantities, return analysis, and store efficiency. These queries helped uncover insights like zero sales per store, monthly trends, and product-wise performance.
+
+The cleaned and processed data was visualized using Power BI to build an interactive dashboard. It includes key visuals such as top-performing stores and drugs, return vs receipt comparisons, sales trends by month, and subgroup-level analysis. Slicers allow dynamic filtering for in-depth exploration. The goal of this project was to identify sales patterns, reduce inefficiencies, and enable data-driven decision-making in pharmaceutical retail operations.
